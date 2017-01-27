@@ -1,11 +1,11 @@
 {
   "assets": [
     {
-      "id": "lp_logo",
+      "id": "image_0",
       "w": 2272,
       "h": 1929,
-      "u": "https://static1.squarespace.com/static/586e61ccbebafbc06b71eead/t/588b0f1ec534a56b55780c9e/1485508383627/",
-      "p": "lp_logo.png"
+      "u": "images/",
+      "p": "img_0.png"
     }
   ],
   "layers": [
@@ -34228,7 +34228,7 @@
       "ind": 44,
       "ty": 2,
       "nm": "Gruppe 51 Kopie",
-      "refId": "image_0",
+      "refId": " ",
       "ks": {
         "o": {
           "k": 100
